@@ -1,2 +1,2 @@
-# Wordl_Series
+# World_Series
  Predicting Winner of WS
